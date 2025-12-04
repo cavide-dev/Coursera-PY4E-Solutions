@@ -22,3 +22,8 @@ In this repository, I focus on:
 
 ---
 🔗 **Verified Certificate:** [View on Coursera](https://coursera.org/verify/M76WW84E6RY8)
+
+---
+### ⚠️ Academic Integrity Disclaimer
+This repository contains my personal solutions and notes. It is intended for **educational tracking and professional portfolio purposes only**.
+If you are currently taking this course, please **do not copy** the code directly. Trying to solve the problems yourself is the best way to learn.
